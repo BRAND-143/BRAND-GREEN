@@ -1,1 +1,5 @@
-
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900P;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900T;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=2.0,width=720,height=1184};FBLC/es_LA;FBCR/Claro;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1032;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Verizon Wireless;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.katana;FBDV/SM-G900V;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=3.0,width=1080,height=1920};FBLC/es_LA;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9295;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
