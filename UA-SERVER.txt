@@ -3,3 +3,8 @@
 [FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.33125,width=800,height=1280};FBLC/es_LA;FBCR/Claro;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N5100;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=782};FBLC/fr_CA;FBCR/Bell;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/C1904;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/ar_AR;FBCR/ASIACELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9105;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/vodafone UK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8190N;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/YES OPTUS;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One SV;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/MetroPCS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SGH-T599N;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/sv_SE;FBCR/SWEDEN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7580;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/529.0.0.44.73;FBBV/464816325;FBDM/{density=1.5,width=480,height=800};FBLC/vi_VN;FBCR/VN VINAPHONE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G360H;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
